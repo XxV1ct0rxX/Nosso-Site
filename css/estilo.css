@@ -1,0 +1,25 @@
+body {
+  background-color: #a8a8a8;
+  text-align: center;
+  margin-top: 20%;
+  background-attachment: fixed;
+  background-position: center;
+  background-size:cover;
+
+}
+
+h1 {
+  font-family: arial;
+  font-size: 35px;
+  color: rgba(22, 31, 160, 0.8);
+  transition: color 0.5s linear;
+  text-decoration: none;
+}
+
+h1:hover {
+  color: white;
+  
+}
+
+
+
